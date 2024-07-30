@@ -1,10 +1,18 @@
-### Paulo Roberto
+## Paulo Roberto
 
 <p>Computer Science Student (UFG)</p>
 <p>Interested in Mathematics Applied to Computing; Algorithms and Number Theory.</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=p0roberto&theme=tokyonight&hide=stars&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0roberto&layout=compact&theme=tokyonight)](https://github.com/p0roberto/github-readme-stats)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=p0roberto&theme=tokyonight&hide=stars&show_icons=true&count_private=true" alt="GitHub stats" height="200" style="border: none;"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0roberto&layout=compact&theme=tokyonight" alt="Top Langs" height="200" style="border: none;"/>
+    </td>
+  </tr>
+</table>
 
 ### Social Links
 
