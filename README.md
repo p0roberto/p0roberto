@@ -1,13 +1,7 @@
 ## Hello! Welcome to my GitHub profile. I'm Paulo Roberto.
 
-<div id="intro-img" align="center">
-    <a href="#"><img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/sign/Emojis/computercat.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJFbW9qaXMvY29tcHV0ZXJjYXQuZ2lmIiwiaWF0IjoxNzIzMDM2MDcxLCJleHAiOjE3MjczNTYwNzF9.YU69d5XfW9bQAy7HxLP82X6ZKpkw9_SO2uo-d34WLA4&t=2024-08-07T13%3A07%3A51.222Z" width=100> </a>
-
 <p>Computer Science Student (UFG)</p>
-<p>Interested in Mathematics Applied to Computing; Algorithms and Number Theory.</p>
-</div>
-
-
+<p>Interested in Mathematics Applied to Computing; Data Science; Algorithms and Number Theory.
 
 <table align="center">
   <tr>
@@ -16,7 +10,7 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0roberto&layout=compact&theme=tokyonight" alt="Top Langs" height="200" style="border: none;"/>
-    </td>w
+    </td>
   </tr>
 </table>
 
