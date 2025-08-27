@@ -1,7 +1,7 @@
 ## Hello! Welcome to my GitHub profile. I'm Paulo Roberto.
 
 <p>Computer Science Student (UFG)</p>
-<p>Interested in Mathematics Applied to Computing; Data Science; Algorithms and Number Theory.
+<p>Interested in Data Science, Mathematics Applied to Computing; Algorithms and Number Theory.
 
 <table align="center">
   <tr>
