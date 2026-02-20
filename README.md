@@ -3,17 +3,6 @@
 <p>Computer Science Student (UFG)</p>
 <p>Interested in Data Science, Mathematics Applied to Computing; Algorithms and Number Theory.
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=p0roberto&theme=tokyonight&hide=stars&show_icons=true&count_private=true" alt="GitHub stats" height="200" style="border: none;"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0roberto&layout=compact&hide=makefile&theme=tokyonight" alt="Top Langs" height="200" style="border: none;"/>
-    </td>
-  </tr>
-</table>
-
 ### Social Links
 
 <p style="margin: 0; padding: 0;">
